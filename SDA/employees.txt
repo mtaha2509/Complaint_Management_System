@@ -1,0 +1,8 @@
+7
+E01 Accounts NA Lady Gaga 50
+E02 Accounts NA Mariah Carrey 55
+E03 IT A Miley Cyrus 31
+E04 IT A Katy Perry 40
+E05 Admins NA Taylor Swift 50
+E06 Admins A Olivia Rodrigo 21
+E07 Accounts NA Bukhtawar Sheikh 30
